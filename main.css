@@ -2,6 +2,16 @@ body {
     background-image: url(./assets/parchment-background.jpg)
 }
 
+.mainFont {
+    font-family: 'Henny Penny', cursive;
+    font-size: 3em;
+}
+
+.bodyFont {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+
 .teamName {
     font-family: 'Henny Penny', cursive;
     display: block;
@@ -14,7 +24,6 @@ body {
     display: block;
     position: relative;
     text-align: center;
-
 }
 
 .motto {
@@ -39,4 +48,5 @@ p {
     text-align: center;
     margin-top: 100px;
 }
+
 
