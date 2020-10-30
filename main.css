@@ -1,3 +1,7 @@
+body {
+    background-image: url(./assets/parchment-background.jpg)
+}
+
 .mainFont {
     font-family: 'Henny Penny', cursive;
     font-size: 3em;
@@ -6,10 +10,6 @@
 .bodyFont {
     font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
-}
-
-body {
-    background-image: url(./assets/parchmentBackground.jpg)
 }
 
 .teamName {
@@ -24,8 +24,8 @@ body {
     display: block;
     position: relative;
     text-align: center;
-
 }
+
 .motto {
     font-family: 'Ubuntu', sans-serif;
     display: block;
@@ -48,3 +48,5 @@ p {
     text-align: center;
     margin-top: 100px;
 }
+
+
