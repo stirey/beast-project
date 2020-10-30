@@ -1,5 +1,5 @@
 body {
-    background-image: url(./assets/parchmentBackground.jpg)
+    background-image: url(./assets/parchment-background.jpg)
 }
 
 .teamName {
@@ -16,6 +16,7 @@ body {
     text-align: center;
 
 }
+
 .motto {
     font-family: 'Ubuntu', sans-serif;
     display: block;
