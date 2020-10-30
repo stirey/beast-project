@@ -1,0 +1,41 @@
+body {
+    background-image: url(./assets/parchmentBackground.jpg)
+}
+
+.teamName {
+    font-family: 'Henny Penny', cursive;
+    display: block;
+    position: relative;
+    text-align: center;
+}
+
+.teamMotto{
+    font-family: 'Ubuntu', sans-serif;
+    display: block;
+    position: relative;
+    text-align: center;
+
+}
+.motto {
+    font-family: 'Ubuntu', sans-serif;
+    display: block;
+    position: relative;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Henny Penny', cursive;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+}
+
+.deniseProfile {
+    display: block;
+    position: relative;
+    text-align: center;
+    margin-top: 100px;
+}
+
